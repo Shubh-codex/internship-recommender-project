@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your Firebase config
 const firebaseConfig = {
-apiKey: "AIzaSyB3yfQYAz3mB61cQrud-ZuE1G3KOYKle8w",
+apiKey: "",
   authDomain: "internship-recommender.firebaseapp.com",
   projectId: "internship-recommender",
   storageBucket: "internship-recommender.firebasestorage.app",
